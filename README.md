@@ -1,4 +1,4 @@
-Terraform Custom Provider for Amazon Web Service
+Terraform Custom Provider for Amazon Web Servicea
 ================================================
 
 This Terraform custom provider is designed for own use case scenario.
